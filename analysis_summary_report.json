@@ -1,0 +1,50 @@
+{
+  "Metadata": {
+    "Analysis_Date": "2025-10-29 03:10:01",
+    "Data_Period": "2015-2023",
+    "Prediction_Year": 2030,
+    "Total_Provinces": 38,
+    "Education_Levels": [
+      "SD",
+      "SMP",
+      "SMA"
+    ]
+  },
+  "Key_Statistics": {
+    "Total_Data_Points": 1026,
+    "Total_Trends_Analyzed": 912,
+    "Total_Rankings_Created": 1026,
+    "Total_Predictions_Made": 114
+  },
+  "Insights": {
+    "trend_direction": {
+      "naik": 484,
+      "turun": 183,
+      "persen_naik": 53.07017543859649,
+      "kesimpulan": "Mixed"
+    },
+    "best_provinces": {
+      "ACEH": 4.037037037037037,
+      "DI YOGYAKARTA": 4.407407407407407,
+      "DKI JAKARTA": 4.407407407407407,
+      "BALI": 5.703703703703703,
+      "KEP. RIAU": 6.518518518518518
+    },
+    "attention_needed": {
+      "SULAWESI BARAT": 31.814814814814813,
+      "GORONTALO": 34.2962962962963,
+      "KALIMANTAN BARAT": 35.333333333333336,
+      "NUSA TENGGARA TIMUR": 36.592592592592595,
+      "PAPUA": 37.96296296296296
+    },
+    "prediction_outlook": {
+      "avg_expected_growth_2030": 6.788333333333333,
+      "outlook": "Optimis"
+    },
+    "challenging_levels": {
+      "SD": 0.7008684210526316,
+      "SMP": 1.2801315789473684,
+      "SMA": 1.449157894736842
+    }
+  }
+}
